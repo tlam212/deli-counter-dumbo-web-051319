@@ -6,6 +6,6 @@ def line(array)
    else
      puts "The line is currently: #{i + 1}. #{name} "
   end
-  
+end
   
 end
